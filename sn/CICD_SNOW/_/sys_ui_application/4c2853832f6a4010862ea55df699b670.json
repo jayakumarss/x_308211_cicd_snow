@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "hint": null,
+  "name": "CICD_SNOW",
+  "order": null,
+  "roles": "x_308211_cicd_snow.user",
+  "sys_class_name": "sys_ui_application",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-01-29 17:01:28",
+  "sys_id": "4c2853832f6a4010862ea55df699b670",
+  "sys_mod_count": 0,
+  "sys_name": "CICD_SNOW",
+  "sys_package": "2b185bcf2f2a4010862ea55df699b667",
+  "sys_policy": null,
+  "sys_scope": "2b185bcf2f2a4010862ea55df699b667",
+  "sys_update_name": "sys_ui_application_4c2853832f6a4010862ea55df699b670",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-01-29 17:01:28"
+}
